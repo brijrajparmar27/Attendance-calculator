@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Attendance-calculator/static/css/main.b48a9dba.chunk.css",
+    "main.js": "/Attendance-calculator/static/js/main.48cd04f7.chunk.js",
+    "main.js.map": "/Attendance-calculator/static/js/main.48cd04f7.chunk.js.map",
+    "runtime-main.js": "/Attendance-calculator/static/js/runtime-main.9adeab36.js",
+    "runtime-main.js.map": "/Attendance-calculator/static/js/runtime-main.9adeab36.js.map",
+    "static/js/2.f47ab332.chunk.js": "/Attendance-calculator/static/js/2.f47ab332.chunk.js",
+    "static/js/2.f47ab332.chunk.js.map": "/Attendance-calculator/static/js/2.f47ab332.chunk.js.map",
+    "index.html": "/Attendance-calculator/index.html",
+    "static/css/main.b48a9dba.chunk.css.map": "/Attendance-calculator/static/css/main.b48a9dba.chunk.css.map",
+    "static/js/2.f47ab332.chunk.js.LICENSE.txt": "/Attendance-calculator/static/js/2.f47ab332.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9adeab36.js",
+    "static/js/2.f47ab332.chunk.js",
+    "static/css/main.b48a9dba.chunk.css",
+    "static/js/main.48cd04f7.chunk.js"
+  ]
+}
